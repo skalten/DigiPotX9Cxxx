@@ -12,6 +12,7 @@
 #define DIGIPOT_UP   HIGH
 #define DIGIPOT_DOWN LOW
 #define DIGIPOT_MAX_AMOUNT 99
+#define DIGIPOT_MIN_AMOUNT 0
 #define DIGIPOT_UNKNOWN 255
 
 class DigiPot
